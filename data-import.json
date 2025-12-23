@@ -1,0 +1,490 @@
+[
+	{
+		"import_file_name":"Home Default",
+		"categories":["Fashion","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Default\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Default\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Default\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/default.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/fashion"
+	},		
+	{
+		"import_file_name":"Home Classic",
+		"categories":["Fashion","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Classic\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Classic\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Classic\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/classic.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/fashion\/home-2"
+	},
+	{
+		"import_file_name":"Home Video Banner","categories":["Fashion","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Video Banner\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Video Banner\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Video Banner\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/video.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/fashion\/home-3"
+	},
+	{
+		"import_file_name":"Home Categories Link",
+		"categories":["Fashion","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Categories Link\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Categories Link\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Categories Link\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/categories.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/fashion\/home-4"
+	},
+	{
+		"import_file_name":"Home Ken Burns Slider",
+		"categories":["Fashion","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Ken Burns Slider\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Ken Burns Slider\/widget.wie",
+		"import_json": [
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Ken Burns Slider\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/kenburn.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/fashion\/home-5"
+	},
+	{
+		"import_file_name":"Home Metro",
+		"categories":["Fashion","Depreciated"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Metro\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Metro\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Metro\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/metro.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/fashion\/home-6"
+	},
+	{
+		"import_file_name":"Home LookBook",
+		"categories":["Fashion","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home LookBook\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home LookBook\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home LookBook\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/lookbook.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/fashion\/home-7"
+	},
+	{
+		"import_file_name":"Home Parallax",
+		"categories":["Fashion","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Parallax\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Parallax\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Parallax\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/parallax.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/fashion\/home-8"
+	},
+	{
+		"import_file_name":"Home Instagram Shop",
+		"categories":["Fashion","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Instagram Shop\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Instagram Shop\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Instagram Shop\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/instagram.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/fashion\/home-instagram-shop"
+	},
+	{
+		"import_file_name":"Home Fashion 9",
+		"categories":["Fashion","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion 9\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion 9\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion 9\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/fashion9.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/fashion\/home-fashion-9\/?option=option-8"
+	},
+	{
+		"import_file_name":"Home Fashion 10",
+		"categories":["Fashion","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion 10\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion 10\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion 10\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/fashion10.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/fashion\/home-fashion-10\/?option=option-9"
+	},
+	{
+		"import_file_name":"Home Fashion 11",
+		"categories":["Fashion","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion 11\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion 11\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion 11\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/fashion11.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/fashion\/home-fashion-11\/?option=option-10"
+	},
+	{
+		"import_file_name":"Home Fashion Simple",
+		"categories":["Fashion","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion Simple\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion Simple\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion Simple\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/fashion-simple.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/fashion\/home-fashion-simple"
+	},
+	{
+		"import_file_name":"Home Fashion Vertical",
+		"categories":["Fashion","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion Vertical\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion Vertical\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion Vertical\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/fashion-vertical.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/fashion\/home-fashion-vertical"
+	},
+	{
+		"import_file_name":"Home Fashion Trend",
+		"categories":["Fashion","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion Trend\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion Trend\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Fashion Trend\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/fashion-trend.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/fashion\/home-fashion-trend\/?option=option-12"
+	},
+	{
+		"import_file_name":"Home New Fashion",
+		"categories":["Fashion","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home New Fashion\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home New Fashion\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home New Fashion\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/new-fashion.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/fashion\/home-new-fashion\/?option=option-4&amp;header-top=0&amp;header-countdown=0"
+	},
+	{
+		"import_file_name":"Home Decor",
+		"categories":["Decor","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Decor\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Decor\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Decor\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/decor.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/decor\/?option=option-13"
+	},
+	{
+		"import_file_name":"Home Decor 2","categories":["Decor","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Decor 2\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Decor 2\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Decor 2\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/decor2.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/decor\/home-decor-2\/?option=option-14&amp;header-transparent=0"
+	},
+	{
+		"import_file_name":"Home New Furniture",
+		"categories":["Decor","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home New Furniture\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home New Furniture\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home New Furniture\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/home-new-furniture.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/decor\/home-new-furnitrue\/?header-boxed=1&amp;header-layout=15&amp;menu-font-size=14&amp;main-menu-color=222&amp;main-menu-action-count-color=fff"
+	},
+	{
+		"import_file_name":"Home Electric",
+		"categories":["Electronic","Featured"],
+		"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Electric\/data-content.xml",
+		"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Electric\/widget.wie",
+		"import_json":[
+			{
+				"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Electric\/theme_option.json",
+				"option_name":"_kalles_options"
+			}
+		],
+		"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/electric.jpg",
+		"preview_url":"https:\/\/kalles.the4.co\/demo\/electric"
+		},
+		{
+			"import_file_name":"Home Electric Vertical",
+			"categories":["Electronic","Featured"],
+			"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Electric Vertical\/data-content.xml",
+			"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Electric Vertical\/widget.wie",
+			"import_json":[
+				{
+					"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Electric Vertical\/theme_option.json",
+					"option_name":"_kalles_options"
+				}
+			],
+			"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/electric-vertical.jpg",
+			"preview_url":"https:\/\/kalles.the4.co\/demo\/electric\/home-electric-vertical\/?option=option-16"
+		},
+		{
+			"import_file_name":"Home Digital",
+			"categories":["Electronic","Featured"],
+			"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Digital\/data-content.xml",
+			"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Digital\/widget.wie",
+			"import_json":[
+				{
+					"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Digital\/theme_option.json",
+					"option_name":"_kalles_options"
+				}
+			],
+			"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/digital.jpg",
+			"preview_url":"https:\/\/kalles.the4.co\/demo\/electric\/home-digital\/?option=option-18"
+		},
+		{
+			"import_file_name":"Home Hitech",
+			"categories":["Electronic","Featured"],
+			"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Hitech\/data-content.xml",
+			"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Hitech\/widget.wie",
+			"import_json":[
+				{
+					"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Hitech\/theme_option.json",
+					"option_name":"_kalles_options"
+				}
+			],
+			"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/\/home-hi-tech.jpg",
+			"preview_url":"https:\/\/kalles.the4.co\/demo\/electric\/home-hi-tech\/?header-sticky=1"
+		},
+		{
+			"import_file_name":"Home Watches",
+			"categories":["Electronic"],
+			"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Watches\/data-content.xml",
+			"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Watches\/widget.wie",
+			"import_json":[
+				{
+					"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Watches\/theme_option.json",
+					"option_name":"_kalles_options"
+				}
+			],
+			"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/watch.jpg",
+			"preview_url":"https:\/\/kalles.the4.co\/demo\/watches\/"
+		},
+		{
+			"import_file_name":"Home Flower",
+			"categories":["Others"],
+			"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Flower\/data-content.xml",
+			"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Flower\/widget.wie",
+			"import_json":[
+				{
+					"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Flower\/theme_option.json",
+					"option_name":"_kalles_options"
+				}
+			],
+			"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/flower.jpg",
+			"preview_url":"https:\/\/kalles.the4.co\/demo\/flower\/?option=option-25&amp;header-top=0&amp;header-countdown=0&amp;header-boxed=1"
+		},
+		{
+			"import_file_name":"Home Flower 2",
+			"categories":["Others","Depreciated"],
+			"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Flower 2\/data-content.xml",
+			"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Flower 2\/widget.wie",
+			"import_json":[
+				{
+					"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Flower 2\/theme_option.json",
+					"option_name":"_kalles_options"
+				}
+			],
+			"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/flowear.jpg",
+			"preview_url":"https:\/\/kalles.the4.co\/demo\/flower\/home-flower-2\/?option=option-1&amp;header-boxed=0&amp;header-transparent=0&amp;main-menu-color=222&amp;main-menu-action-count-color=fff"
+		},
+		{
+			"import_file_name":"Home Jewelry",
+			"categories":["Others"],
+			"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Jewelry\/data-content.xml",
+			"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Jewelry\/widget.wie",
+			"import_json":[
+				{
+					"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Jewelry\/theme_option.json",
+					"option_name":"_kalles_options"
+				}
+			],
+			"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/home-jewelry.jpg",
+			"preview_url":"https:\/\/kalles.the4.co\/demo\/jewelry\/"
+		},
+		{
+			"import_file_name":"Home Bakery",
+			"categories":["Others"],
+			"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Bakery\/data-content.xml",
+			"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Bakery\/widget.wie",
+			"import_json":[
+				{
+					"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Bakery\/theme_option.json",
+					"option_name":"_kalles_options"
+				}
+			],
+			"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/home-bakery.jpg",
+			"preview_url":"https:\/\/kalles.the4.co\/demo\/bakery\/"
+		},
+		{
+			"import_file_name":"Home Bicycle",
+			"categories":["Others"],
+			"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Bicycle\/data-content.xml",
+			"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Bicycle\/widget.wie",
+			"import_json":[
+				{
+					"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Bicycle\/theme_option.json",
+					"option_name":"_kalles_options"
+				}
+			],
+			"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/k-bicycle.jpg",
+			"preview_url":"https:\/\/kalles.the4.co\/demo\/bicycle\/"
+		},
+		{
+			"import_file_name":"Home Kids",
+			"categories":["Others","Depreciated"],
+			"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Kids\/data-content.xml",
+			"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Kids\/widget.wie",
+			"import_json":[
+				{
+					"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Kids\/theme_option.json",
+					"option_name":"_kalles_options"
+				}
+			],
+			"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/k-kid.jpg",
+			"preview_url":"https:\/\/kalles.the4.co\/demo\/kid\/\/"
+		},
+		{
+			"import_file_name":"Home Yoga",
+			"categories":["Others"],
+			"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Yoga\/data-content.xml",
+			"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Yoga\/widget.wie",
+			"import_json":[
+				{
+					"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Yoga\/theme_option.json",
+					"option_name":"_kalles_options"
+				}
+			],
+			"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/k-yoga.jpg",
+			"preview_url":"https:\/\/kalles.the4.co\/demo\/yoga\/"
+		},
+		{
+			"import_file_name":"Home Travel",
+			"categories":["Coming Soon"],
+			"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Travel\/data-content.xml",
+			"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Travel\/widget.wie",
+			"import_json":[
+				{
+					"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Travel\/theme_option.json",
+					"option_name":"_kalles_options"
+				}
+			],
+			"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/k-travel.jpg",
+			"preview_url":"https:\/\/kalles.the4.co\/demo\/travel\/"
+		},
+		{
+			"import_file_name":"Home Pets",
+			"categories":["Coming Soon"],
+			"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Pets\/data-content.xml",
+			"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Pets\/widget.wie",
+			"import_json":[
+				{
+					"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Pets\/theme_option.json",
+					"option_name":"_kalles_options"
+				}
+			],
+			"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/k-pet.jpg",
+			"preview_url":"https:\/\/kalles.the4.co\/demo\/pets\/"
+		},
+		{
+			"import_file_name":"Home Hiking",
+			"categories":["Coming Soon"],
+			"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Hiking\/data-content.xml",
+			"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Hiking\/widget.wie",
+			"import_json":[
+				{
+					"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/Home Hiking\/theme_option.json",
+					"option_name":"_kalles_options"
+				}
+			],
+			"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/k-hk1.jpg",
+			"preview_url":"https:\/\/kalles.the4.co\/demo\/hiking\/"
+		},
+		{
+			"import_file_name":"RTL Demo",
+			"categories":["Coming Soon"],
+			"import_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/RTL Demo\/data-content.xml",
+			"import_widget_file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/RTL Demo\/widget.wie",
+			"import_json":[
+				{
+					"file_url":"https:\/\/wtheme.vip\/themes\/kalles\/demo-data\/RTL Demo\/theme_option.json",
+					"option_name":"_kalles_options"
+				}
+			],
+			"import_preview_image_url":"https:\/\/themes.the4.co\/kalles-wp-landing\/img\/demo\/h-rtl1.jpg",
+			"preview_url":"https:\/\/kalles.the4.co\/demo\/rtl\/"
+		}
+	]
